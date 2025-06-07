@@ -3,7 +3,7 @@ name: Build, Push, and Deploy Frontend
 on:
   push:
     branches:
-      - skill-frontend
+      - main
 
 jobs:
   build:
