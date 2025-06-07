@@ -8,3 +8,4 @@
   docker build -t frontend-docker .
   docker run -p 80:80 frontend-docker
   docker run -d -p 80:80 frontend-docker
+
